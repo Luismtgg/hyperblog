@@ -1,6 +1,6 @@
 body 
 {
-    color: goldenrod;
+    color: black;
     text-align: center;
     font-family: "Arial";
     font-size: 16px;
@@ -50,10 +50,10 @@ body
 #container p
 {
     text-align: left;
-    color: black;
+   
 }
 
-#parrafoUltimo
+.parrafoUltimo
 {
     color: white;
     text-align: center;
