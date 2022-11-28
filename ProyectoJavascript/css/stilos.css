@@ -52,3 +52,11 @@ body
     text-align: left;
     color: black;
 }
+
+#parrafoUltimo
+{
+    color: white;
+    text-align: center;
+    background-color: gray;
+    padding: 0.5rem;
+}
